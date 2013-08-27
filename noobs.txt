@@ -1,6 +1,7 @@
 List of attendees for the git workflows brown bag
 -------------------------------------------------
 
+Anne Gentle
 
 
-Latest Contributor = 
+Latest Contributor = Anne Gentle
